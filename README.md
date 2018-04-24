@@ -2,6 +2,7 @@
 
 ## Example app to demonstrate how to test a web application (rails 5 / rspec 3)
 
+### [Link](https://fabiansch.github.io/testing_rails_app_with_rspec/#1) to slides
 ### Get started from zero:
 
 1. install [Docker](https://docs.docker.com/install/) if not already done
